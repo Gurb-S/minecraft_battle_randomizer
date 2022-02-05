@@ -1,0 +1,60 @@
+{
+    "weapons": [
+        {
+            "id": 256,
+            "displayName": "Iron Shovel",
+            "name": "iron_shovel",
+            "stackSize": 1,
+            "maxDurability": 250,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 257,
+            "displayName": "Iron Pickaxe",
+            "name": "iron_pickaxe",
+            "stackSize": 1,
+            "maxDurability": 250,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 258,
+            "displayName": "Iron Axe",
+            "name": "iron_axe",
+            "stackSize": 1,
+            "maxDurability": 250,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 259,
+            "displayName": "Flint and Steel",
+            "name": "flint_and_steel",
+            "stackSize": 1,
+            "maxDurability": 64,
+            "enchantCategories": [
+              "breakable",
+              "vanishable"
+            ]
+          }
+    ]
+}
