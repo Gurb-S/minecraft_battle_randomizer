@@ -55,6 +55,565 @@
               "breakable",
               "vanishable"
             ]
+          },
+          {
+            "id": 261,
+            "displayName": "Bow",
+            "name": "bow",
+            "stackSize": 1,
+            "maxDurability": 384,
+            "enchantCategories": [
+              "breakable",
+              "bow",
+              "vanishable"
+            ]
+          },
+          {
+            "id": 267,
+            "displayName": "Iron Sword",
+            "name": "iron_sword",
+            "stackSize": 1,
+            "maxDurability": 250,
+            "enchantCategories": [
+              "weapon",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 268,
+            "displayName": "Wooden Sword",
+            "name": "wooden_sword",
+            "stackSize": 1,
+            "maxDurability": 59,
+            "enchantCategories": [
+              "weapon",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "oak_planks",
+              "spruce_planks",
+              "birch_planks",
+              "jungle_planks",
+              "acacia_planks",
+              "dark_oak_planks",
+              "crimson_planks",
+              "warped_planks"
+            ]
+          },
+          {
+            "id": 269,
+            "displayName": "Wooden Shovel",
+            "name": "wooden_shovel",
+            "stackSize": 1,
+            "maxDurability": 59,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "oak_planks",
+              "spruce_planks",
+              "birch_planks",
+              "jungle_planks",
+              "acacia_planks",
+              "dark_oak_planks",
+              "crimson_planks",
+              "warped_planks"
+            ]
+          },
+          {
+            "id": 270,
+            "displayName": "Wooden Pickaxe",
+            "name": "wooden_pickaxe",
+            "stackSize": 1,
+            "maxDurability": 59,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "oak_planks",
+              "spruce_planks",
+              "birch_planks",
+              "jungle_planks",
+              "acacia_planks",
+              "dark_oak_planks",
+              "crimson_planks",
+              "warped_planks"
+            ]
+          },
+          {
+            "id": 271,
+            "displayName": "Wooden Axe",
+            "name": "wooden_axe",
+            "stackSize": 1,
+            "maxDurability": 59,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "oak_planks",
+              "spruce_planks",
+              "birch_planks",
+              "jungle_planks",
+              "acacia_planks",
+              "dark_oak_planks",
+              "crimson_planks",
+              "warped_planks"
+            ]
+          },
+          {
+            "id": 272,
+            "displayName": "Stone Sword",
+            "name": "stone_sword",
+            "stackSize": 1,
+            "maxDurability": 131,
+            "enchantCategories": [
+              "weapon",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "cobblestone",
+              "blackstone"
+            ]
+          },
+          {
+            "id": 273,
+            "displayName": "Stone Shovel",
+            "name": "stone_shovel",
+            "stackSize": 1,
+            "maxDurability": 131,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "cobblestone",
+              "blackstone"
+            ]
+          },
+          {
+            "id": 274,
+            "displayName": "Stone Pickaxe",
+            "name": "stone_pickaxe",
+            "stackSize": 1,
+            "maxDurability": 131,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "cobblestone",
+              "blackstone"
+            ]
+          },
+          {
+            "id": 275,
+            "displayName": "Stone Axe",
+            "name": "stone_axe",
+            "stackSize": 1,
+            "maxDurability": 131,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "cobblestone",
+              "blackstone"
+            ]
+          },
+          {
+            "id": 276,
+            "displayName": "Diamond Sword",
+            "name": "diamond_sword",
+            "stackSize": 1,
+            "maxDurability": 1561,
+            "enchantCategories": [
+              "weapon",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "diamond"
+            ]
+          },
+          {
+            "id": 277,
+            "displayName": "Diamond Shovel",
+            "name": "diamond_shovel",
+            "stackSize": 1,
+            "maxDurability": 1561,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "diamond"
+            ]
+          },
+          {
+            "id": 278,
+            "displayName": "Diamond Pickaxe",
+            "name": "diamond_pickaxe",
+            "stackSize": 1,
+            "maxDurability": 1561,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "diamond"
+            ]
+          },
+          {
+            "id": 279,
+            "displayName": "Diamond Axe",
+            "name": "diamond_axe",
+            "stackSize": 1,
+            "maxDurability": 1561,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "diamond"
+            ]
+          },
+          {
+            "id": 283,
+            "displayName": "Golden Sword",
+            "name": "golden_sword",
+            "stackSize": 1,
+            "maxDurability": 32,
+            "enchantCategories": [
+              "weapon",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "gold_ingot"
+            ]
+          },
+          {
+            "id": 284,
+            "displayName": "Golden Shovel",
+            "name": "golden_shovel",
+            "stackSize": 1,
+            "maxDurability": 32,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "gold_ingot"
+            ]
+          },
+          {
+            "id": 285,
+            "displayName": "Golden Pickaxe",
+            "name": "golden_pickaxe",
+            "stackSize": 1,
+            "maxDurability": 32,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "gold_ingot"
+            ]
+          },
+          {
+            "id": 286,
+            "displayName": "Golden Axe",
+            "name": "golden_axe",
+            "stackSize": 1,
+            "maxDurability": 32,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "gold_ingot"
+            ]
+          },
+          {
+            "id": 290,
+            "displayName": "Wooden Hoe",
+            "name": "wooden_hoe",
+            "stackSize": 1,
+            "maxDurability": 59,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "oak_planks",
+              "spruce_planks",
+              "birch_planks",
+              "jungle_planks",
+              "acacia_planks",
+              "dark_oak_planks",
+              "crimson_planks",
+              "warped_planks"
+            ]
+          },
+          {
+            "id": 291,
+            "displayName": "Stone Hoe",
+            "name": "stone_hoe",
+            "stackSize": 1,
+            "maxDurability": 131,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "cobblestone",
+              "blackstone"
+            ]
+          },
+          {
+            "id": 292,
+            "displayName": "Iron Hoe",
+            "name": "iron_hoe",
+            "stackSize": 1,
+            "maxDurability": 250,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 293,
+            "displayName": "Diamond Hoe",
+            "name": "diamond_hoe",
+            "stackSize": 1,
+            "maxDurability": 1561,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "diamond"
+            ]
+          },
+          {
+            "id": 294,
+            "displayName": "Golden Hoe",
+            "name": "golden_hoe",
+            "stackSize": 1,
+            "maxDurability": 32,
+            "enchantCategories": [
+              "digger",
+              "breakable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "gold_ingot"
+            ]
           }
+    ],
+    
+    "helmet": [
+        {
+            "id": 298,
+            "displayName": "Leather Cap",
+            "name": "leather_helmet",
+            "stackSize": 1,
+            "maxDurability": 55,
+            "enchantCategories": [
+              "armor",
+              "armor_head",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "leather"
+            ]
+          },
+          {
+            "id": 302,
+            "displayName": "Chain Helmet",
+            "name": "chainmail_helmet",
+            "stackSize": 1,
+            "maxDurability": 165,
+            "enchantCategories": [
+              "armor",
+              "armor_head",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 306,
+            "displayName": "Iron Helmet",
+            "name": "iron_helmet",
+            "stackSize": 1,
+            "maxDurability": 165,
+            "enchantCategories": [
+              "armor",
+              "armor_head",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 310,
+            "displayName": "Diamond Helmet",
+            "name": "diamond_helmet",
+            "stackSize": 1,
+            "maxDurability": 363,
+            "enchantCategories": [
+              "armor",
+              "armor_head",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "diamond"
+            ]
+          },
+          {
+            "id": 314,
+            "displayName": "Golden Helmet",
+            "name": "golden_helmet",
+            "stackSize": 1,
+            "maxDurability": 77,
+            "enchantCategories": [
+              "armor",
+              "armor_head",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "gold_ingot"
+            ]
+          }
+    ],
+
+    "chestplate": [
+        {
+            "id": 299,
+            "displayName": "Leather Tunic",
+            "name": "leather_chestplate",
+            "stackSize": 1,
+            "maxDurability": 80,
+            "enchantCategories": [
+              "armor",
+              "armor_chest",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "leather"
+            ]
+          },
+          {
+            "id": 303,
+            "displayName": "Chain Chestplate",
+            "name": "chainmail_chestplate",
+            "stackSize": 1,
+            "maxDurability": 240,
+            "enchantCategories": [
+              "armor",
+              "armor_chest",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 307,
+            "displayName": "Iron Chestplate",
+            "name": "iron_chestplate",
+            "stackSize": 1,
+            "maxDurability": 240,
+            "enchantCategories": [
+              "armor",
+              "armor_chest",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 311,
+            "displayName": "Diamond Chestplate",
+            "name": "diamond_chestplate",
+            "stackSize": 1,
+            "maxDurability": 528,
+            "enchantCategories": [
+              "armor",
+              "armor_chest",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "diamond"
+            ]
+          },
+          {
+            "id": 315,
+            "displayName": "Golden Chestplate",
+            "name": "golden_chestplate",
+            "stackSize": 1,
+            "maxDurability": 112,
+            "enchantCategories": [
+              "armor",
+              "armor_chest",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "gold_ingot"
+            ]
+          }
+
     ]
 }
