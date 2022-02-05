@@ -615,5 +615,176 @@
             ]
           }
 
+    ],
+
+    "leggings": [
+        {
+            "id": 300,
+            "displayName": "Leather Pants",
+            "name": "leather_leggings",
+            "stackSize": 1,
+            "maxDurability": 75,
+            "enchantCategories": [
+              "armor",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "leather"
+            ]
+          },
+          {
+            "id": 304,
+            "displayName": "Chain Leggings",
+            "name": "chainmail_leggings",
+            "stackSize": 1,
+            "maxDurability": 225,
+            "enchantCategories": [
+              "armor",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 308,
+            "displayName": "Iron Leggings",
+            "name": "iron_leggings",
+            "stackSize": 1,
+            "maxDurability": 225,
+            "enchantCategories": [
+              "armor",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 312,
+            "displayName": "Diamond Leggings",
+            "name": "diamond_leggings",
+            "stackSize": 1,
+            "maxDurability": 495,
+            "enchantCategories": [
+              "armor",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "diamond"
+            ]
+          },
+          {
+            "id": 316,
+            "displayName": "Golden Leggings",
+            "name": "golden_leggings",
+            "stackSize": 1,
+            "maxDurability": 105,
+            "enchantCategories": [
+              "armor",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "gold_ingot"
+            ]
+          }
+    ],
+
+    "boots": [
+        {
+            "id": 301,
+            "displayName": "Leather Boots",
+            "name": "leather_boots",
+            "stackSize": 1,
+            "maxDurability": 65,
+            "enchantCategories": [
+              "armor",
+              "armor_feet",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "leather"
+            ]
+          },
+          {
+            "id": 305,
+            "displayName": "Chain Boots",
+            "name": "chainmail_boots",
+            "stackSize": 1,
+            "maxDurability": 195,
+            "enchantCategories": [
+              "armor",
+              "armor_feet",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 309,
+            "displayName": "Iron Boots",
+            "name": "iron_boots",
+            "stackSize": 1,
+            "maxDurability": 195,
+            "enchantCategories": [
+              "armor",
+              "armor_feet",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "iron_ingot"
+            ]
+          },
+          {
+            "id": 313,
+            "displayName": "Diamond Boots",
+            "name": "diamond_boots",
+            "stackSize": 1,
+            "maxDurability": 429,
+            "enchantCategories": [
+              "armor",
+              "armor_feet",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "diamond"
+            ]
+          },
+          {
+            "id": 317,
+            "displayName": "Golden Boots",
+            "name": "golden_boots",
+            "stackSize": 1,
+            "maxDurability": 91,
+            "enchantCategories": [
+              "armor",
+              "armor_feet",
+              "breakable",
+              "wearable",
+              "vanishable"
+            ],
+            "repairWith": [
+              "gold_ingot"
+            ]
+          }
     ]
 }
