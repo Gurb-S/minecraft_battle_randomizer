@@ -531,7 +531,7 @@
     "chestplate": [
         {
             "id": 299,
-            "displayName": "Leather Tunic",
+            "displayName": "Leather Chestplate",
             "name": "leather_chestplate",
             "stackSize": 1,
             "maxDurability": 80,
