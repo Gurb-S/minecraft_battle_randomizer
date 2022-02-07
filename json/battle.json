@@ -317,7 +317,7 @@
             "id": 283,
             "displayName": "Golden Sword",
             "name": "golden_sword",
-            "image": "/imgs/weapons_and_armor/weapons/golden_weapons/golden_sword.png",
+            "image": "/imgs/weapons_and_armor/weapons/gold_weapons/golden_sword.png",
             "stackSize": 1,
             "maxDurability": 32,
             "enchantCategories": [
@@ -333,7 +333,7 @@
             "id": 284,
             "displayName": "Golden Shovel",
             "name": "golden_shovel",
-            "image": "/imgs/weapons_and_armor/weapons/golden_weapons/golden_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/gold_weapons/golden_shovel.png",
             "stackSize": 1,
             "maxDurability": 32,
             "enchantCategories": [
@@ -349,7 +349,7 @@
             "id": 285,
             "displayName": "Golden Pickaxe",
             "name": "golden_pickaxe",
-            "image": "/imgs/weapons_and_armor/weapons/golden_weapons/golden_pickaxe.png",
+            "image": "/imgs/weapons_and_armor/weapons/gold_weapons/golden_pickaxe.png",
             "stackSize": 1,
             "maxDurability": 32,
             "enchantCategories": [
@@ -365,7 +365,7 @@
             "id": 286,
             "displayName": "Golden Axe",
             "name": "golden_axe",
-            "image": "/imgs/weapons_and_armor/weapons/golden_weapons/golden_axe.png",
+            "image": "/imgs/weapons_and_armor/weapons/gold_weapons/golden_axe.png",
             "stackSize": 1,
             "maxDurability": 32,
             "enchantCategories": [
@@ -453,7 +453,7 @@
             "id": 294,
             "displayName": "Golden Hoe",
             "name": "golden_hoe",
-            "image": "/imgs/weapons_and_armor/weapons/golden_weapons/golden_hoe.png",
+            "image": "/imgs/weapons_and_armor/weapons/gold_weapons/golden_hoe.png",
             "stackSize": 1,
             "maxDurability": 32,
             "enchantCategories": [
@@ -659,7 +659,7 @@
             "id": 300,
             "displayName": "Leather Pants",
             "name": "leather_leggings",
-            "image": "/imgs/weapons_and_armor/armor/leather_armor/leather_pants.png",
+            "image": "/imgs/weapons_and_armor/armor/leather_armor/leather_leggings.png",
             "stackSize": 1,
             "maxDurability": 75,
             "enchantCategories": [
