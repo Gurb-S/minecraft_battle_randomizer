@@ -19,7 +19,7 @@ const btn = document.getElementById('btn');
 const item2 = document.getElementById('item2');
 const btn2 = document.getElementById('btn2');
 
-let output = '';
+let output = "LET'S BEGIN";
 
 async function getJSON(){
     const response = await fetch('/json/battle.json');
