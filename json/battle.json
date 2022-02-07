@@ -4,7 +4,7 @@
             "id": 256,
             "displayName": "Iron Shovel",
             "name": "iron_shovel",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/iron_weapons/iron_shovel.png",
             "stackSize": 1,
             "maxDurability": 250,
             "enchantCategories": [
@@ -20,7 +20,7 @@
             "id": 257,
             "displayName": "Iron Pickaxe",
             "name": "iron_pickaxe",
-            "image": "/imgs/weapons/iron_pickaxe.png",
+            "image": "/imgs/weapons_and_armor/weapons/iron_weapons/iron_pickaxe.png",
             "stackSize": 1,
             "maxDurability": 250,
             "enchantCategories": [
@@ -36,7 +36,7 @@
             "id": 258,
             "displayName": "Iron Axe",
             "name": "iron_axe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/iron_weapons/iron_axe.png",
             "stackSize": 1,
             "maxDurability": 250,
             "enchantCategories": [
@@ -52,7 +52,7 @@
             "id": 259,
             "displayName": "Flint and Steel",
             "name": "flint_and_steel",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/other_weapons/flint_and_steel.png",
             "stackSize": 1,
             "maxDurability": 64,
             "enchantCategories": [
@@ -64,7 +64,7 @@
             "id": 261,
             "displayName": "Bow",
             "name": "bow",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/other_weapons/bow.png",
             "stackSize": 1,
             "maxDurability": 384,
             "enchantCategories": [
@@ -77,7 +77,7 @@
             "id": 267,
             "displayName": "Iron Sword",
             "name": "iron_sword",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/iron_weapons/iron_sword.png",
             "stackSize": 1,
             "maxDurability": 250,
             "enchantCategories": [
@@ -93,7 +93,7 @@
             "id": 268,
             "displayName": "Wooden Sword",
             "name": "wooden_sword",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/wooden_weapons/wooden_sword.png",
             "stackSize": 1,
             "maxDurability": 59,
             "enchantCategories": [
@@ -116,7 +116,7 @@
             "id": 269,
             "displayName": "Wooden Shovel",
             "name": "wooden_shovel",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/wooden_weapons/wooden_shovel.png",
             "stackSize": 1,
             "maxDurability": 59,
             "enchantCategories": [
@@ -139,7 +139,7 @@
             "id": 270,
             "displayName": "Wooden Pickaxe",
             "name": "wooden_pickaxe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/wooden_weapons/wooden_pickaxe.png",
             "stackSize": 1,
             "maxDurability": 59,
             "enchantCategories": [
@@ -162,7 +162,7 @@
             "id": 271,
             "displayName": "Wooden Axe",
             "name": "wooden_axe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/wooden_weapons/wooden_axe.png",
             "stackSize": 1,
             "maxDurability": 59,
             "enchantCategories": [
@@ -185,7 +185,7 @@
             "id": 272,
             "displayName": "Stone Sword",
             "name": "stone_sword",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/stone_weapons/stone_sword.png",
             "stackSize": 1,
             "maxDurability": 131,
             "enchantCategories": [
@@ -202,7 +202,7 @@
             "id": 273,
             "displayName": "Stone Shovel",
             "name": "stone_shovel",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/stone_weapons/stone_shovel.png",
             "stackSize": 1,
             "maxDurability": 131,
             "enchantCategories": [
@@ -219,7 +219,7 @@
             "id": 274,
             "displayName": "Stone Pickaxe",
             "name": "stone_pickaxe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/stone_weapons/stone_pickaxe.png",
             "stackSize": 1,
             "maxDurability": 131,
             "enchantCategories": [
@@ -236,7 +236,7 @@
             "id": 275,
             "displayName": "Stone Axe",
             "name": "stone_axe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/stone_weapons/stone_axe.png",
             "stackSize": 1,
             "maxDurability": 131,
             "enchantCategories": [
@@ -253,7 +253,7 @@
             "id": 276,
             "displayName": "Diamond Sword",
             "name": "diamond_sword",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/diamond_weapons/diamond_sword.png",
             "stackSize": 1,
             "maxDurability": 1561,
             "enchantCategories": [
@@ -269,7 +269,7 @@
             "id": 277,
             "displayName": "Diamond Shovel",
             "name": "diamond_shovel",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/diamond_weapons/diamond_shovel.png",
             "stackSize": 1,
             "maxDurability": 1561,
             "enchantCategories": [
@@ -285,7 +285,7 @@
             "id": 278,
             "displayName": "Diamond Pickaxe",
             "name": "diamond_pickaxe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/diamond_weapons/diamond_pickaxe.png",
             "stackSize": 1,
             "maxDurability": 1561,
             "enchantCategories": [
@@ -301,7 +301,7 @@
             "id": 279,
             "displayName": "Diamond Axe",
             "name": "diamond_axe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/diamond_weapons/diamond_axe.png",
             "stackSize": 1,
             "maxDurability": 1561,
             "enchantCategories": [
@@ -317,7 +317,7 @@
             "id": 283,
             "displayName": "Golden Sword",
             "name": "golden_sword",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/golden_weapons/golden_sword.png",
             "stackSize": 1,
             "maxDurability": 32,
             "enchantCategories": [
@@ -333,7 +333,7 @@
             "id": 284,
             "displayName": "Golden Shovel",
             "name": "golden_shovel",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/golden_weapons/golden_shovel.png",
             "stackSize": 1,
             "maxDurability": 32,
             "enchantCategories": [
@@ -349,7 +349,7 @@
             "id": 285,
             "displayName": "Golden Pickaxe",
             "name": "golden_pickaxe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/golden_weapons/golden_pickaxe.png",
             "stackSize": 1,
             "maxDurability": 32,
             "enchantCategories": [
@@ -365,7 +365,7 @@
             "id": 286,
             "displayName": "Golden Axe",
             "name": "golden_axe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/golden_weapons/golden_axe.png",
             "stackSize": 1,
             "maxDurability": 32,
             "enchantCategories": [
@@ -381,7 +381,7 @@
             "id": 290,
             "displayName": "Wooden Hoe",
             "name": "wooden_hoe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/wooden_weapons/wooden_hoe.png",
             "stackSize": 1,
             "maxDurability": 59,
             "enchantCategories": [
@@ -404,7 +404,7 @@
             "id": 291,
             "displayName": "Stone Hoe",
             "name": "stone_hoe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/stone_weapons/stone_hoe.png",
             "stackSize": 1,
             "maxDurability": 131,
             "enchantCategories": [
@@ -421,7 +421,7 @@
             "id": 292,
             "displayName": "Iron Hoe",
             "name": "iron_hoe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/iron_weapons/iron_hoe.png",
             "stackSize": 1,
             "maxDurability": 250,
             "enchantCategories": [
@@ -437,7 +437,7 @@
             "id": 293,
             "displayName": "Diamond Hoe",
             "name": "diamond_hoe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/diamond_weapons/diamond_hoe.png",
             "stackSize": 1,
             "maxDurability": 1561,
             "enchantCategories": [
@@ -453,7 +453,7 @@
             "id": 294,
             "displayName": "Golden Hoe",
             "name": "golden_hoe",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/weapons/golden_weapons/golden_hoe.png",
             "stackSize": 1,
             "maxDurability": 32,
             "enchantCategories": [
@@ -472,7 +472,7 @@
             "id": 298,
             "displayName": "Leather Cap",
             "name": "leather_helmet",
-            "image": "/imgs/weapons/iron_shovel.png",
+            "image": "/imgs/weapons_and_armor/armor/leather_armor/leather_cap.png",
             "stackSize": 1,
             "maxDurability": 55,
             "enchantCategories": [
@@ -490,6 +490,7 @@
             "id": 302,
             "displayName": "Chain Helmet",
             "name": "chainmail_helmet",
+            "image": "/imgs/weapons_and_armor/armor/chain_armor/chain_helmet.png",
             "stackSize": 1,
             "maxDurability": 165,
             "enchantCategories": [
@@ -507,6 +508,7 @@
             "id": 306,
             "displayName": "Iron Helmet",
             "name": "iron_helmet",
+            "image": "/imgs/weapons_and_armor/armor/iron_armor/iron_helmet.png",
             "stackSize": 1,
             "maxDurability": 165,
             "enchantCategories": [
@@ -524,6 +526,7 @@
             "id": 310,
             "displayName": "Diamond Helmet",
             "name": "diamond_helmet",
+            "image": "/imgs/weapons_and_armor/armor/diamond_armor/diamond_helmet.png",
             "stackSize": 1,
             "maxDurability": 363,
             "enchantCategories": [
@@ -541,6 +544,7 @@
             "id": 314,
             "displayName": "Golden Helmet",
             "name": "golden_helmet",
+            "image": "/imgs/weapons_and_armor/armor/golden_armor/golden_helmet.png",
             "stackSize": 1,
             "maxDurability": 77,
             "enchantCategories": [
@@ -561,6 +565,7 @@
             "id": 299,
             "displayName": "Leather Chestplate",
             "name": "leather_chestplate",
+            "image": "/imgs/weapons_and_armor/armor/leather_armor/leather_chestplate.png",
             "stackSize": 1,
             "maxDurability": 80,
             "enchantCategories": [
@@ -578,6 +583,7 @@
             "id": 303,
             "displayName": "Chain Chestplate",
             "name": "chainmail_chestplate",
+            "image": "/imgs/weapons_and_armor/armor/chain_armor/chain_chestplate.png",
             "stackSize": 1,
             "maxDurability": 240,
             "enchantCategories": [
@@ -595,6 +601,7 @@
             "id": 307,
             "displayName": "Iron Chestplate",
             "name": "iron_chestplate",
+            "image": "/imgs/weapons_and_armor/armor/iron_armor/iron_chestplate.png",
             "stackSize": 1,
             "maxDurability": 240,
             "enchantCategories": [
@@ -612,6 +619,7 @@
             "id": 311,
             "displayName": "Diamond Chestplate",
             "name": "diamond_chestplate",
+            "image": "/imgs/weapons_and_armor/armor/diamond_armor/diamond_chestplate.png",
             "stackSize": 1,
             "maxDurability": 528,
             "enchantCategories": [
@@ -629,6 +637,7 @@
             "id": 315,
             "displayName": "Golden Chestplate",
             "name": "golden_chestplate",
+            "image": "/imgs/weapons_and_armor/armor/golden_armor/golden_chestplate.png",
             "stackSize": 1,
             "maxDurability": 112,
             "enchantCategories": [
@@ -650,6 +659,7 @@
             "id": 300,
             "displayName": "Leather Pants",
             "name": "leather_leggings",
+            "image": "/imgs/weapons_and_armor/armor/leather_armor/leather_pants.png",
             "stackSize": 1,
             "maxDurability": 75,
             "enchantCategories": [
@@ -666,6 +676,7 @@
             "id": 304,
             "displayName": "Chain Leggings",
             "name": "chainmail_leggings",
+            "image": "/imgs/weapons_and_armor/armor/chain_armor/chain_leggings.png",
             "stackSize": 1,
             "maxDurability": 225,
             "enchantCategories": [
@@ -682,6 +693,7 @@
             "id": 308,
             "displayName": "Iron Leggings",
             "name": "iron_leggings",
+            "image": "/imgs/weapons_and_armor/armor/iron_armor/iron_leggings.png",
             "stackSize": 1,
             "maxDurability": 225,
             "enchantCategories": [
@@ -698,6 +710,7 @@
             "id": 312,
             "displayName": "Diamond Leggings",
             "name": "diamond_leggings",
+            "image": "/imgs/weapons_and_armor/armor/diamond_armor/diamond_leggings.png",
             "stackSize": 1,
             "maxDurability": 495,
             "enchantCategories": [
@@ -714,6 +727,7 @@
             "id": 316,
             "displayName": "Golden Leggings",
             "name": "golden_leggings",
+            "image": "/imgs/weapons_and_armor/armor/golden_armor/golden_leggings.png",
             "stackSize": 1,
             "maxDurability": 105,
             "enchantCategories": [
@@ -733,6 +747,7 @@
             "id": 301,
             "displayName": "Leather Boots",
             "name": "leather_boots",
+            "image": "/imgs/weapons_and_armor/armor/leather_armor/leather_boots.png",
             "stackSize": 1,
             "maxDurability": 65,
             "enchantCategories": [
@@ -750,6 +765,7 @@
             "id": 305,
             "displayName": "Chain Boots",
             "name": "chainmail_boots",
+            "image": "/imgs/weapons_and_armor/armor/chain_armor/chain_boots.png",
             "stackSize": 1,
             "maxDurability": 195,
             "enchantCategories": [
@@ -767,6 +783,7 @@
             "id": 309,
             "displayName": "Iron Boots",
             "name": "iron_boots",
+            "image": "/imgs/weapons_and_armor/armor/iron_armor/iron_boots.png",
             "stackSize": 1,
             "maxDurability": 195,
             "enchantCategories": [
@@ -784,6 +801,7 @@
             "id": 313,
             "displayName": "Diamond Boots",
             "name": "diamond_boots",
+            "image": "/imgs/weapons_and_armor/armor/diamond_armor/diamond_boots.png",
             "stackSize": 1,
             "maxDurability": 429,
             "enchantCategories": [
@@ -801,6 +819,7 @@
             "id": 317,
             "displayName": "Golden Boots",
             "name": "golden_boots",
+            "image": "/imgs/weapons_and_armor/armor/golden_armor/golden_boots.png",
             "stackSize": 1,
             "maxDurability": 91,
             "enchantCategories": [
