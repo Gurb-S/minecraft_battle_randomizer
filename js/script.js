@@ -25,6 +25,8 @@ async function getJSON(){
     console.log(data);
     const weaponsArray = data.weapons;
     console.log(weaponsArray)
+    console.log(weaponsArray[0].image);
+    item2.innerHTML = `<img src="${weaponsArray[0].image}">`;
     // console.log(weaponsArray[0].displayName);
     let weapons = [];
     weaponsArray.forEach(weapon => {
